@@ -1,5 +1,7 @@
 package ejercicios;
 
+import java.util.Scanner;
+
 public class ejercicio1_14 {
 	/**
 	 * 14. Programa que calcula el número de la suerte de una 

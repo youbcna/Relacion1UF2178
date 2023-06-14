@@ -1,5 +1,7 @@
 package ejercicios;
 
+import java.util.Scanner;
+
 public class ejercicio1_15 {
 
 	public static void main(String[] args) {
@@ -9,6 +11,8 @@ public class ejercicio1_15 {
 				+ "centigrados a Kelvin");
 		float centigrados = teclado.nextFloat();
 		System.out.println("Son "+(centigrados+273)+" grados kelvin");
+		teclado.close();
 	}
+	
 
 }

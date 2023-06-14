@@ -1,5 +1,7 @@
 package ejercicios;
 
+import java.util.Scanner;
+
 public class ejercicio1_12 {
 
 	public static void main(String[] args) {
